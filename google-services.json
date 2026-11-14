@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "867090622920",
+    "project_id": "fir-mahasiswa-a6e78",
+    "storage_bucket": "fir-mahasiswa-a6e78.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867090622920:android:c2305410a9e838d67d78fd",
+        "android_client_info": {
+          "package_name": "com.akmal.firebasemahasiswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867090622920-bec0826pq7nu0jqt5s0kiaec633l3j3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akmal.firebasemahasiswa",
+            "certificate_hash": "4559c5255ace2e0f210635574d8a13a839c4e829"
+          }
+        },
+        {
+          "client_id": "867090622920-vhcr25kjisasnnq36g0p6130g2t9qvuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW_3b0l_o7lBKm-sDsahp-O5wbbPeQV5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867090622920-vhcr25kjisasnnq36g0p6130g2t9qvuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
